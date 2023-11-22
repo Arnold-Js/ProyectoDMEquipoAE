@@ -1,5 +1,5 @@
 # BIENVENIDOS A  iTaxiAPP
-## Descripcion
+## Descripción
 ### El proyecto consiste en una app donde los usuarios seran capaces de visualizar asientos disponibles dentro de alguna unidad cerca de su ruta, tambien seran capaces de solicitar un viaje 'especial' donde tendran la opción de que la unidad pase a su ubicación actual para llevar al usuario a la dirección deseada. De igual manera que el conductor tendria mejor administración en los viajes realizados.
 ## Integrantes.
 ### Arnol  Jesus Cruz Ortiz.(Arnold-Js)
