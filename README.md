@@ -16,14 +16,22 @@
 
 ### 2. Establecer un sistema de calificación y retroalimentación bidireccional entre usuarios y conductores, con el fin de fomentar la calidad del servicio y la seguridad. La aplicación debe permitir a los usuarios evaluar la experiencia del viaje y a los conductores evaluar a los pasajeros, creando un entorno de confianza y mejora continua en la calidad del servicio ofrecido.
 
-## se uso git para utilizar comandos en el repositorio
+# Herramientas
+## Se uso Git para utilizar comandos en el repositorio
 lo puedes descargar desde aqui -<https://git-scm.com/downloads>-
-## comandos
-###
-###
-###
-###
-# stack
-# drawer
-# boton tap
-# top tap7
+## Comandos 
+### Obtención y creación de proyectos
+* $ git init - Crear un repositorio Git vacío o reinicializar uno existente
+* $ git clone <repositorio_ejemplo.git> - Clonar un repositorio en un nuevo directorio
+## Instantáneas básicas
+* $ git add - Añadir el contenido del archivo al índice
+* $ git status - Muestra el estado del árbol de trabajo
+* $ git commit -m<"cambios"> - Registra los cambios en el repositorio
+### Compartir y actualizar proyectos
+* $ git fetch --all- Descargar objetos y referencias de otro repositorio
+* $ git pull - Obtener e integrar con otro repositorio o una rama local
+* $ git push - Actualizar referencias remotas junto con objetos asociados
+### stack
+### drawer
+### boton tap
+### top tap7
