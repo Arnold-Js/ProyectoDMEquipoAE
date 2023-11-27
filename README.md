@@ -16,6 +16,13 @@
 
 ### 2. Establecer un sistema de calificación y retroalimentación bidireccional entre usuarios y conductores, con el fin de fomentar la calidad del servicio y la seguridad. La aplicación debe permitir a los usuarios evaluar la experiencia del viaje y a los conductores evaluar a los pasajeros, creando un entorno de confianza y mejora continua en la calidad del servicio ofrecido.
 
+## se uso git para utilizar comandos en el repositorio
+lo puedes descargar desde aqui -<https://git-scm.com/downloads>-
+## comandos
+###
+###
+###
+###
 # stack
 # drawer
 # boton tap
