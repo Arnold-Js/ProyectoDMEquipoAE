@@ -1,10 +1,12 @@
 import React from 'react'
-import { View } from 'react-native'
+import { Text, View } from 'react-native'
 
-export const App = () => {
+const App = () => {
   return (
     <View>
-
+      <Text>BIENVENIDO A iTaxiAPP</Text>
     </View>
   )
 }
+
+export default App;
