@@ -1,6 +1,6 @@
 import React from 'react'
 import { View, Text, Button } from 'react-native';
-import { styles } from '../themes/appThemes';
+import { styles } from '../temas/appTemas';
 import { StackScreenProps } from '@react-navigation/stack';
 // import { useNavigation } from '@react-navigation/core';
 
