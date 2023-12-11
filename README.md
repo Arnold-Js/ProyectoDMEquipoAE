@@ -31,7 +31,3 @@ lo puedes descargar desde aqui -<https://git-scm.com/downloads>-
 * $ git fetch --all- Descargar objetos y referencias de otro repositorio
 * $ git pull - Obtener e integrar con otro repositorio o una rama local
 * $ git push - Actualizar referencias remotas junto con objetos asociados
-### stack
-### drawer
-### boton tap
-### top tap7
